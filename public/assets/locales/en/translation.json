@@ -1,0 +1,92 @@
+{
+  "banner": {
+    "cart": "Your cart"
+  },
+  "nav": {
+    "language": "Language",
+    "home": "HOME",
+    "shop": "SHOP",
+    "pages": "PAGES",
+    "lookbook": "LOOKBOOK",
+    "brands": "BRANDS"
+  },
+  "footer": {
+    "address": {
+      "title": "Our office Address"
+    },
+    "phone": {
+      "title": "Pleace call us:"
+    },
+    "stores": {
+      "title": "Our Stores"
+    },
+    "account": {
+      "title": "My Account",
+      "cart": "My Cart",
+      "checkout": "Check Out",
+      "wishlist": "Wishlist",
+      "terms": "Term & Policy",
+      "account": "Your Account"
+    },
+    "information": {
+      "title": "Information",
+      "shipping": "Shipping & return",
+      "giftcard": "Giftcards",
+      "track": "Track My Order",
+      "terms": "Term & Policy",
+      "faq": "FAQs"
+    },
+    "howto": {
+      "title": "How to Buy",
+      "payments": "Making Payments",
+      "delivery": "Delivery Options",
+      "protection": "Buyer Protection",
+      "guide": "New User Guide",
+      "partnership": "Partner Ship"
+    },
+    "copyright": "© 2022 Made by Mohannad Jamal. All Rights Reserved."
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "subtitle": "Subscribe to receive coupons and gift cards",
+    "email": "Email address",
+    "button": "SUBSCRIBE"
+  },
+  "homepage": {
+    "carouselOne": "Smartphones & Tablets",
+    "carouselTwo": "Audio & Sound",
+    "grouped": "Camera & Lens",
+    "ad": {
+      "promotion": "Save your money with super promotion, available every Sunday in the weekend!",
+      "button": "Learn More →"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "table": {
+      "product": "Product Name",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total"
+    },
+    "checkout": {
+      "summary": "Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping (Flat Rate - Fixed)",
+      "total": "Order Total",
+      "button": "GO TO CHECKOUT",
+      "subtitle": "Checkout with multiple addresses"
+    }
+  },
+  "product": {
+    "breadcrumb": "Home",
+    "button": "ADD TO CART",
+    "info": "is available in increments of 1",
+    "tab": {
+      "details": "DETAILS",
+      "info": "MORE INFORMATION",
+      "reviews": "REVIEWS",
+      "unimplemented": "Unimplemented"
+    }
+  }
+}
