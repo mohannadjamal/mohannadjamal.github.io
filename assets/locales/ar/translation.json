@@ -88,5 +88,10 @@
       "reviews": "تقييمات",
       "unimplemented": "لم يتم التنفيذ"
     }
+  },
+  "shop": {
+    "title": "جميع المنتجات",
+    "search-placeholder": "إبحث عن منتحات",
+    "search-notfound": "لم نجد منتجات"
   }
 }

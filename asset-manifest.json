@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b69031e7.css",
-    "main.js": "/static/js/main.471d93c4.js",
+    "main.css": "/static/css/main.3ce18fec.css",
+    "main.js": "/static/js/main.650ad735.js",
     "static/media/JBLAd.png": "/static/media/JBLAd.edb590a92fe8f0c35b8d.png",
     "static/media/startupsocks.png": "/static/media/startupsocks.ff6acfa4a81247065fba.png",
     "static/media/toshiba.png": "/static/media/toshiba.d04df85835882fc3a133.png",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/static/media/logo.a4d287ce865d01baf0508486e07f55c8.svg",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.b69031e7.css.map": "/static/css/main.b69031e7.css.map",
-    "main.471d93c4.js.map": "/static/js/main.471d93c4.js.map"
+    "main.3ce18fec.css.map": "/static/css/main.3ce18fec.css.map",
+    "main.650ad735.js.map": "/static/js/main.650ad735.js.map"
   },
   "entrypoints": [
-    "static/css/main.b69031e7.css",
-    "static/js/main.471d93c4.js"
+    "static/css/main.3ce18fec.css",
+    "static/js/main.650ad735.js"
   ]
 }

@@ -88,5 +88,10 @@
       "reviews": "REVIEWS",
       "unimplemented": "Unimplemented"
     }
+  },
+  "shop": {
+    "title": "All Products",
+    "search-placeholder": "Search for products...",
+    "search-notfound": "No products found!"
   }
 }
